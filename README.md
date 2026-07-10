@@ -1,16 +1,29 @@
-## Hi there 👋
+# 💫 About Me:
+👋 Hey there, I'm Sharky!  
+🦥 Professional sloth mode: ON  
+☕ Fueled by coffee and curiosity  
 
-<!--
-**sharki22/sharki22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔨 Currently:
+- Surviving uni life
+- Lots of started repos
+---
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Socials:
+[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/kyrieyay)
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=sharki22&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false)
+![](https://streak-stats.demolab.com/?user=sharki22&theme=blueberry&hide_border=false)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=sharki22&theme=blueberry&hide_border=false&layout=compact)
+
+---
+
+
+
+![](resources/200.webp)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+---
