@@ -17,12 +17,12 @@
 ![](https://streak-stats.demolab.com/?user=sharki22&theme=blueberry&hide_border=false)
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=sharki22&theme=blueberry&hide_border=false&layout=compact)
 
----
 
 
 <div align="center">
 <img src="resources/200.webp" alt="blip-blop">
 </div>
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
