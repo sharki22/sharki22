@@ -23,6 +23,7 @@
 <img src="resources/200.webp" alt="blip-blop">
 </div>
 
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
